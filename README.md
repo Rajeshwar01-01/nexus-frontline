@@ -1,6 +1,6 @@
-# Nexus Play — Browser Arena Prototype
+# RiftRush — Browser Arena
 
-A small, single-player browser arena inspired by movement scripts in the archived Unity files. It runs from one static HTML file and needs no build step, account, backend, or downloaded game assets.
+RiftRush is a colorful, single-player browser arena inspired by movement scripts in the archived Unity files. It runs from one static HTML file and needs no build step, account, backend, or downloaded game assets.
 
 ## Controls
 - Move: **W A S D** or arrow keys
